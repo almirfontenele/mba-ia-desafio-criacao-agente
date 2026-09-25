@@ -1,0 +1,22 @@
+[project]
+name = "mba-ia-desafio-criacao-agente"
+version = "0.1.0"
+description = "Assistente Virtual do Residencial Aurora - Desafio Criacao de Agentes"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "google-adk==2.2.0",
+    "fastapi>=0.115.0",
+    "uvicorn[standard]>=0.30.0",
+    "pydantic>=2.10.0",
+    "pydantic-settings>=2.5.0",
+    "aiosqlite>=0.20.0",
+    "python-dotenv>=1.0.0",
+    "httpx>=0.27.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.3.0",
+    "pytest-asyncio>=0.24.0",
+]
