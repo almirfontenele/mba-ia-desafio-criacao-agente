@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "skills": {
+    "SQLite Database Expert": {
+      "source": "martinholovsky/claude-skills-generator",
+      "sourceType": "github",
+      "skillPath": "skills/sqlite/SKILL.md",
+      "computedHash": "515e1971f145631025485c6dbf83c62bb7ee0fabc805d0e2bd07ac2aac7f24d8"
+    },
+    "fastapi-patterns": {
+      "source": "affaan-m/ecc",
+      "sourceType": "github",
+      "skillPath": "skills/fastapi-patterns/SKILL.md",
+      "computedHash": "88b3727902263469db5fb9a4f170714ab9e6d5e49d4c959d98420d009fca3e30"
+    },
+    "google-adk-python": {
+      "source": "cnemri/google-genai-skills",
+      "sourceType": "github",
+      "skillPath": "skills/google-adk-python/SKILL.md",
+      "computedHash": "38c410f6184b090b95cfa6e860ab0947bbc903ad269d451210aabfe0e4321ca6"
+    },
+    "google-genai-sdk-python": {
+      "source": "cnemri/google-genai-skills",
+      "sourceType": "github",
+      "skillPath": "skills/google-genai-sdk-python/SKILL.md",
+      "computedHash": "69decef8c37d3a76813cb3f001b4374a5665efc343f03d1cdff1514f9de0c226"
+    },
+    "prompt-injection-defense": {
+      "source": "bagelhole/devops-security-agent-skills",
+      "sourceType": "github",
+      "skillPath": "security/ai/prompt-injection-defense/SKILL.md",
+      "computedHash": "385f0a96acbeb4f19a51fba814d38674d6a3c437eb2ea9b117e14de064b38c98"
+    },
+    "pytest-patterns": {
+      "source": "manutej/luxor-claude-marketplace",
+      "sourceType": "github",
+      "skillPath": "plugins/luxor-testing-essentials/skills/pytest-patterns/SKILL.md",
+      "computedHash": "1d3f63da1a2bb8ef4dc7dffc260f7ec7eeeb36e39479dacb4f895c0ab6dad0dc"
+    }
+  }
+}
